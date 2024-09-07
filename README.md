@@ -13,5 +13,9 @@ This is a simple **Social Media Dashboard** built using HTML, CSS, and JavaScrip
 
 
 
-## Project Structure
+## Technologies Used
+
+- **HTML5:** To structure the dashboard layout.
+- **CSS3:** For styling and making the dashboard responsive.
+- **JavaScript:** To handle user interactions, posting status updates, deleting posts, and using `localStorage` for persistence.
 
